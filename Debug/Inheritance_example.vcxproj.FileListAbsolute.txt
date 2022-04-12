@@ -1,0 +1,2 @@
+C:\Dev\SoftwareEngineeringUMDearborn\CIS200L\Lab 4\Inheritance_example\Debug\Inheritance_example.exe
+C:\Dev\SoftwareEngineeringUMDearborn\CIS200L\Lab 4\Inheritance_example\Debug\Inheritance_example.pdb
