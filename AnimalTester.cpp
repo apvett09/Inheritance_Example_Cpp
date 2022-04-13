@@ -16,7 +16,7 @@ int main() {
 	Animal* c{ nullptr };
 	Cat cat1;
 	c = &cat1;
-	c->setName("Lewis");
+	c->setName("Sebastian");
 	cout << c->getName() << endl;
 
 	// get the type of animal
