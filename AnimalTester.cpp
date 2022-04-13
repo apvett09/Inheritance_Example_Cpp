@@ -34,7 +34,7 @@ int main() {
 	Animal* d{ nullptr };
 	Dog dog1;
 	d = &dog1;
-	d->setName("Molly");
+	d->setName("Mila");
 	cout << d->getName() << endl;
 
 	// get the type of animal
